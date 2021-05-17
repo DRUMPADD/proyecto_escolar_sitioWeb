@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+body {
+    background: url('../img/FONDOS/background_computer.jpeg') no-repeat center/cover;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+}
+
+.containermeet {
+    margin-top: 30px;
+    width: 100%;
+}
+
+.containermeet p {
+    font-size: 18px;
+    text-align: justify;
+}
+
+.containermeet ol {
+    padding-top: 30px;
+    padding-left: 50px;
+    font-size: 18px;
+    text-align: justify;
+}
+
+.info-header {
+    width: 80%;
+    height: 550px;
+    background: url('../img/meet/google-meet.jpg') no-repeat center/cover;
+    padding: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: flex-end;
+}
+.prueba{
+    font-size: 18px;
+    text-align: justify;
+
+}
+.videomeet{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 50px;
+
+
+}
+.x1{ 
+    padding: 15px 10px;
+}
+
+#AccederMeet {
+    display:flex;
+    margin: 100px 0px 20px 0px;
+}
+
+.AccederMeet {
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+#Invitar {
+    display:flex;
+    margin: 50px 0px 50px 0px;
+}
+
+.Invitar {
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+#Videollamada {
+    display:flex;
+    margin: 30px 0px 50px 0px;
+}
+
+.Videollamada {
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+#Unirse {
+    display:flex;
+    margin: 20px 0px 50px 0px;
+}
+
+.Unirse {
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+#Ilimitado {
+    display:flex;
+    margin: 30px 0px 50px 0px;
+}
+
+.Ilimitado {
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+#Subtitulos {
+    display:flex;
+    margin: 30px 0px 50px 0px;
+}
+
+.Subtitulos {
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+#Silencio {
+    display:flex;
+    margin: 30px 0px 50px 0px;
+}
+
+.Silencio {
+    font-size: 1.5rem;
+    text-align: justify;
+}
+
+#Compartir {
+    display:flex;
+    margin: 30px 0px 50px 0px;
+}
+
+.Compartir {
+    font-size: 1.5rem;
+    text-align: justify;
+}

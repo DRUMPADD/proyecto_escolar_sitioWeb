@@ -1,0 +1,101 @@
+body {
+    background: url('../img/classroom/fondo-class.jpg') no-repeat center/cover;
+}
+
+.containerclassroom {
+    width: 100%;
+    margin: auto;
+}
+
+.containerclassroom p {
+    margin: 10px auto;
+    font-size: 25px;
+}
+
+.containerclassroom ul {
+    font-size: 18px;
+    text-align: justify;
+}
+
+.containerclassroom ul li {
+    padding: 5px 10px;
+}
+
+.containerclassroom .videos {
+    text-align: center;
+    justify-content: center;
+}
+
+.containerclassroom .videos iframe {
+    margin: 15px auto;
+    left: 50%;
+    top: 50%;
+}
+
+.info-header {
+    width: 80%;
+    height: 550px;
+    background: url('../img/classroom/principal.jpg') no-repeat center/cover;
+    padding: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: flex-end;
+}
+
+.info-header h2  {
+    padding: 200px 20px;
+    color:#ffffff;
+    text-align: center;
+    font-size: 45px;
+}
+
+.info-header p {
+    padding: 40px;
+    font-size: 20px;
+    text-align: center;
+    font-family: Consolas;
+    font-weight: bold;
+    color: #000;
+}
+
+.info-header a {
+    font-size: 20px;
+    position: absolute;
+    padding: 0 10px;
+    color: #ffffff;
+    border: 0;
+    box-sizing: border-box;
+    border: 2px solid #000;
+    background: #000;
+    border-radius: 50%;
+}
+
+#Createclass {
+    display:flex;
+    margin: 100px 0px 20px 0px;
+}
+
+#Addstudents {
+    display:flex;
+    margin: 10px 0px 20px 0px;
+}
+
+.Texto1{
+    padding: 0px 20px 10px;
+}
+
+#title_general {
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    padding: 0px 0px 10px 0px;
+}
+
+#videos_ {
+    display:flex;
+    margin-top: 40px;
+    justify-content: center;
+}
